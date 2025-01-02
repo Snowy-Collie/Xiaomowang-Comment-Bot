@@ -1,4 +1,4 @@
-# Web Automation Tool
+# Xiaomawang Comment Bot
 
 This project is a web automation tool that uses Selenium to interact with a website, perform login operations, and send messages to specified project pages.
 
