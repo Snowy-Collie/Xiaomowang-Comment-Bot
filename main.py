@@ -74,6 +74,11 @@ print("-" * 50)
 print("免责声明：")
 print("本工具仅供学习和交流使用，请勿用于非法用途。")
 print("作者不对任何使用过程中产生的问题负责。")
+print("-" * 50)
+print("温馨提示：")
+print("本工具仅在Windows造作系统运行，使用Edge浏览器及其Driver。")
+print("请确保已经将正确版本的msedgedriver.exe放置在当前python文件同目录下。")
+print("下载Driver：https://developer.microsoft.com/microsoft-edge/tools/webdriver/")
 print("=" * 50 + f"{END}")
 if input("是否同意上述声明？(y/n)") == "y":
     # 配置 Edge WebDriver 服务
